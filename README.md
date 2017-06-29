@@ -8,5 +8,8 @@ This takes about 30 minutes to run: downloading packages, provisioning OpenVZ to
 Assumes a blank EC2 instance or DigitalOcean droplet.
 
 Once you provision your host, you could add the `hub-in-a-box` role to install all HUBzero packages.
-``` roles:
-    - hub-in-a-box```
+
+``` 
+roles:
+    - hub-in-a-box
+ ```
